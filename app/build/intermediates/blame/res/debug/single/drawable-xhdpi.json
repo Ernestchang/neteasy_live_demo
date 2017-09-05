@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/pl_red.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/pl_red.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/clip_ic_done.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/clip_ic_done.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_screenshot_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_screenshot_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_filter_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_filter_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_camera_switch_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_camera_switch_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/start_r.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/start_r.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_scale01.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_scale01.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_back.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_round_gray.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_round_gray.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_scan_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_scan_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/edittext_white_normal.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/edittext_white_normal.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_loading.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_loading.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/g_white_btn_pressed.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/circle_identity_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/circle_identity_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_bg.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_bg.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/grimace.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/grimace.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/avatar_def.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/avatar_def.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_camera_on_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_camera_on_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_share_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_share_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_live.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_live.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_change_camera_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_change_camera_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_blue_round.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_blue_round.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg_room_id.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/bg_room_id.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_audio_on_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_audio_on_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_blue_circle.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_blue_circle.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_gift_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_gift_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/master_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/master_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_close_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/small_kiss.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/small_kiss.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_scan_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_scan_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/account_login.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/account_login.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/circle.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/circle.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/info.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/info.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/clip_ic_back.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/clip_ic_back.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_camera_off_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_camera_off_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/screen_cap.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/screen_cap.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nick_name_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nick_name_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/big_knife.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/big_knife.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/camera.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/camera.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/gray.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/gray.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_vcloud.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/logo_vcloud.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/mirror.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/mirror.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/filter.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/filter.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_takesnap.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_takesnap.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/progressbar_thumb_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/progressbar_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/verify_number.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/verify_number.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/flashstop.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/flashstop.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_beauty_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_beauty_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_camera_on_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_camera_on_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_gift_rose.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/icon_gift_rose.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/big_kiss.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/big_kiss.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_music_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_music_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/bg.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_pause.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_pause.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_list_unselected.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/video_list_unselected.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_filter_beauty_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_filter_beauty_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_message_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_message_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_mute01.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_mute01.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/cut_off.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/cut_off.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_share_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_share_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_like_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_like_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_music0.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_music0.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_thumb.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/video_thumb.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_gift_chocolate.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/icon_gift_chocolate.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/pl_blue.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/pl_blue.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/pl_yellow.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/pl_yellow.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_camera_switch_pressed.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_camera_switch_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_s.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/video_s.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/message_plus_guess_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/message_plus_guess_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/whitepoint.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/whitepoint.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_gift_icecream.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/icon_gift_icecream.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/take_video.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/take_video.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_play.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_play.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/switch_on.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/switch_on.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/actionbar_white_logo_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_no_filter_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_no_filter_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close_pressed.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_close_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/user_pwd_lock_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_audience.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_audience.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/music.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/music.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_no_filter_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_no_filter_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_audio_off_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_audio_off_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_forbidden.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_forbidden.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_e.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/video_e.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/knife.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/knife.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_round_hole.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/ic_round_hole.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_beauty_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_beauty_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/video_list_selected.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/video_list_selected.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/audio_s.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/audio_s.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/phone_number.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/phone_number.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/dark_back_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/dark_back_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/register_right_top_btn_normal.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_like_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_like_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_audio_off_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_audio_off_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/user_account_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/user_account_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/clip_ic_filter_normal.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/clip_ic_filter_normal.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_music1.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_music1.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_mute02.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_mute02.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/clip_ic_filter_pressed.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/clip_ic_filter_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_message_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_message_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/audio_e.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/audio_e.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_right.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_music_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_music_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/admin_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/admin_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_music2.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_music2.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_audio_on_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_audio_on_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_camera_off_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_camera_off_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/g_green_btn_pressed.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_gift_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_gift_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_screenshot_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_screenshot_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/big_grimace.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/big_grimace.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/scan.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/scan.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/circle_identity_n.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/circle_identity_n.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/g_white_btn_normal.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/empty.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/empty.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_filter_beauty_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_filter_beauty_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_close_enter_room.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_close_enter_room.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/register_right_top_btn_disable.9.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/add.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_change_camera_p.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/btn_change_camera_p.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/flashstart.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/flashstart.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_gift_bear.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/icon_gift_bear.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/head_icon.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/head_icon.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/speed.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/speed.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg_login.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/bg_login.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/nemediacontroller_scale02.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable-xhdpi/nemediacontroller_scale02.png"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/slide_in_from_top.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/slide_out_to_bottom.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/slide_out_to_top.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/slide_in_from_bottom.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/anim/design_snackbar_in.xml"
+    }
+]

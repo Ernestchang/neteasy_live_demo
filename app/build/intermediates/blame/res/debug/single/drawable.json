@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/blue_border.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/blue_border.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_delete_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_delete_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_nim_action_bar_button_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_nim_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_enter_btn_unable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_enter_btn_unable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/video_delete_btn_normal.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/video_delete_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_login_out.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_login_out.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_popup_menu_item_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/switch_track_off.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/switch_track_off.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_identity_circle_p.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_identity_circle_p.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_progress_small_white.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_progress_small_white.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_text_input.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_text_input.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_view_bottom.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_view_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_contact_list_item_selecter.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_contact_list_item_selecter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/progressbar_color.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/progressbar_color.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/message_plus_guess_pressed.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_audio_animation_list_right.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_welcome.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_welcome.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/filter_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/filter_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_actionbar_nest_dark_logo.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_actionbar_nest_dark_logo.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/custom_seekbar.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/custom_seekbar.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/share_type_bg_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/share_type_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/switch_thumb.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_right_enable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_right_enable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_middle_enable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_middle_enable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_plus_photo_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_item_right_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_item_right_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_align_bottom_green_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_audience_room_id.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_audience_room_id.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nemediacontroller_progressbar.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/nemediacontroller_progressbar.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_button_bottom_audio_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_button_bottom_send_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_button_bottom_add_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_easy_edit_text_dialog_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_easy_edit_text_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/list_item_bg_selecter.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/list_item_bg_selecter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_text_color_selecter_next.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_text_color_selecter_next.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/camera_switch_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/camera_switch_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_room_info.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_room_info.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_emoji_item_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/operate_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/operate_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_team_member_add_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_team_member_add_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_login_btn_hover.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_login_btn_hover.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_list_item_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_list_item_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_view_pager_indicator_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_middle_unable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_middle_unable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_popup_menu_item_black_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/seekbar_thumb.png",
+        "source": "/Users/admin/.android/build-cache/bba823a451b7b8f66bd3ec7a6506872c79d2209b/output/res/drawable/seekbar_thumb.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_sticker_button_background_normal_layer_list.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_team_create_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_team_create_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_enter_text_select.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_enter_text_select.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_gray_edit_text_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_button_bottom_text_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_left_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_left_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/start_take_video_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/start_take_video_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_left_unable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_left_unable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/shape_grey.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/shape_grey.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/audio_play_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/audio_play_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_bg_edittext_rectangle_focused.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/video_delete_btn_unable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/video_delete_btn_unable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nemediacontroller_progressbar_thumb.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/nemediacontroller_progressbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tap.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tap.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/close_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/close_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/audio_animate.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/audio_animate.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/login_btn_text_color_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/login_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_login_btn_normal.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_login_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/share_type_text_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/share_type_text_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/switch_track_on.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/switch_track_on.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_sub_tab_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_sub_tab_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_progress_bar_background.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_blue_edit_text_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_blue_edit_text_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_bg_edittext_rectangle.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_identity_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_identity_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/enter_button_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/enter_button_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_cameras_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_cameras_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_audio_animation_list_left.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/touch_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/touch_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_video_detail_sub_title.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_video_detail_sub_title.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_no_filter_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_no_filter_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/edit_text_color.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/edit_text_color.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/seekbar_drawable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/seekbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_progress_bar_foreground.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_semitransparency_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_semitransparency_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_middle_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_middle_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/radio_text_color.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/radio_text_color.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/movement_color_seletor.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/movement_color_seletor.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/message_plus_guess_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/message_plus_guess_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_item_left_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_item_left_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_beauty_filter_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_beauty_filter_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_cancel_record_red_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/identity_color_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/identity_color_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_right_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_right_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/switch_track.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/switch_track.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/progress_hint_bg.9.png",
+        "source": "/Users/admin/.android/build-cache/bba823a451b7b8f66bd3ec7a6506872c79d2209b/output/res/drawable/progress_hint_bg.9.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_portrait_mask_round.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_g_image_preview_white_btn_selecter.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_play_btn_select.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_play_btn_select.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_actionbar_black_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_bg_edittext_rectangle_normal.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_bg_edittext_rectangle_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_team_member_delete_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_team_member_delete_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_left_enable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_left_enable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_enter_btn_normal.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_enter_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_enter_btn_press.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_enter_btn_press.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/sample_footer_loading_progress.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_main_tab_right_unable.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_main_tab_right_unable.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/button_border.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/button_border.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/black_transparent_color.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/black_transparent_color.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/login_btn_bg_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/login_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_plus_location_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_plus_location_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_bottom_divider_match_parent_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_item_round_bg.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_item_round_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_recent_contact_sticky_selecter.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_recent_contact_sticky_selecter.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/white_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/white_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_portrait_mask_square.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_portrait_mask_square.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_sub_tab_selected.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_sub_tab_selected.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/mix_music_btn_bg_select.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/mix_music_btn_bg_select.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/btn_enter_bg_select.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/btn_enter_bg_select.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/explosion.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/explosion.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_button_bottom_emoji_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_video_play_icon_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_red_round_button_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_unread_news_icon_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/bg_identity_circle.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/app/src/main/res/drawable/bg_identity_circle.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_picker_preview_btn_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/sample_footer_loading.png",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/sample_footer_loading.png"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/admin/.android/build-cache/7ad422ab0e6e7949664360de9c4dfde7f50696ff/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/nim_message_plus_video_selector.xml",
+        "source": "/Users/admin/code/git/video/LiveApp_demo/uikit/build/intermediates/bundles/default/res/drawable/nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "/Users/admin/code/git/video/LiveApp_demo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/admin/.android/build-cache/7edc57306844bfbcb3e962e77c45f4dea1344a25/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    }
+]
